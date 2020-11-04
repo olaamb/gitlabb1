@@ -1,12 +1,18 @@
-mad_o@DESKTOP-9H83LJ6 MINGW64 ~/Documents/gitovningar/gitlabb1 (master)
+mmad_o@DESKTOP-9H83LJ6 MINGW64 ~/Documents/gitovningar/gitlabb1 (master)
 $ git log
-commit f9735f5a71341c09b611784de966c8f4262b8214 (HEAD -> master, branch2)
+commit d08c31fcdcd59b02a155802bbd4a8ae1ccf87aaa (HEAD -> master, origin/master)
+Author: Ola Amberntsson <ola.amberntsson@iths.se>
+Date:   Wed Nov 4 10:49:52 2020 +0100
+
+    upload textfile log
+
+commit f9735f5a71341c09b611784de966c8f4262b8214 (branch2)
 Author: Ola Amberntsson <ola.amberntsson@iths.se>
 Date:   Wed Nov 4 10:47:14 2020 +0100
 
     before merge commit
 
-commit 1d1d0e29a7eae4f31ee0dabc02e431ad883bc418 (origin/master)
+commit 1d1d0e29a7eae4f31ee0dabc02e431ad883bc418
 Author: Ola Amberntsson <ola.amberntsson@iths.se>
 Date:   Wed Nov 4 10:40:37 2020 +0100
 
