@@ -1,0 +1,13 @@
+mad_o@DESKTOP-9H83LJ6 MINGW64 ~/Documents/gitovningar/gitlabb1 (master)
+$ git log
+commit f9735f5a71341c09b611784de966c8f4262b8214 (HEAD -> master, branch2)
+Author: Ola Amberntsson <ola.amberntsson@iths.se>
+Date:   Wed Nov 4 10:47:14 2020 +0100
+
+    before merge commit
+
+commit 1d1d0e29a7eae4f31ee0dabc02e431ad883bc418 (origin/master)
+Author: Ola Amberntsson <ola.amberntsson@iths.se>
+Date:   Wed Nov 4 10:40:37 2020 +0100
+
+    First commit. readme.md and .gitignore
